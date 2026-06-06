@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Neo - AI Voice Assistant",
+  "description": "A sassy, witty, and intelligent Indian male/female AI voice assistant named Neo.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
